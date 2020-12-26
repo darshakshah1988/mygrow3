@@ -1,0 +1,7 @@
+Welcome {{name}},
+
+https://stagegrow.herokuapp.com/confirm?token={{token}}
+
+Regards,
+Grow2
+ 
